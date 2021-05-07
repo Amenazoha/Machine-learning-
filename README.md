@@ -1,1 +1,5 @@
-Machine learning projects using libraries, modules 
+Machine learning projects using libraries, modules
+*scikitlearn 
+*LinearRegression 
+*matplotlib
+*pandas 
